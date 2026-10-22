@@ -6,7 +6,7 @@ ESP32-alapú, kijelző nélkül is használható autós műszerprototípus. Saj�
 
 ## Jelenlegi funkciók
 
-- `MX5-Gauge` Wi-Fi AP és webes felület a `http://192.168.4.1` címen
+- `MX5-Gauge` Wi-Fi AP és webes felület a `http://192.168.4.1` címen 
 - virtuális demo- és analóg ADC-szenzorok
 - lineáris, többpontos és NTC Steinhart–Hart profilok
 - vezetett „Új szenzor” varázsló
